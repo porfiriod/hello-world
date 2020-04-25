@@ -1,2 +1,3 @@
 # hello-world
-just anoted reposition
+recolocación anotada
+me gusta aprender cosas nuevas
